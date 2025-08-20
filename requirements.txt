@@ -4,3 +4,4 @@ numpy
 yfinance
 altair
 openpyxl
+matplotlib.pyplot
